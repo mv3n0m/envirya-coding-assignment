@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+flightsql-dbapi==0.2.1
+influxdb-client==1.36.1
